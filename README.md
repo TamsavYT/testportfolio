@@ -7,7 +7,7 @@ A modern, responsive portfolio website built with React and Vite showcasing my p
 I am a dedicated programmer and lifelong learner with a deep passion for building intelligent systems. I am driven by curiosity and a commitment to high-quality work, always seeking to master new technologies to stay at the forefront of the industry.
 
 ## Features
-
+ 
 - 🎨 Modern, responsive design with smooth animations
 - 🌙 Dark theme with vibrant gradient accents
 - 📱 Mobile-friendly navigation
