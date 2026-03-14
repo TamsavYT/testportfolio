@@ -10,22 +10,43 @@ const Education = () => {
           <div className="education-card">
             <div className="education-icon">🎓</div>
             <div className="education-details">
-              <h3>Bachelor of Engineering in ECE</h3>
-              <h4>Electronics and Communication Engineering</h4>
+              <h3>Bachelor of ECE</h3>
+              <h4>Government College of Engg. Tirunelveli</h4>
               <div className="education-info">
+                <span className="education-period">2022 – 2026</span>
                 <div className="cgpa-badge">
-                  <span className="cgpa-label">CGPA</span>
-                  <span className="cgpa-value">8.51</span>
+                  <span className="cgpa-label">GPA</span>
+                  <span className="cgpa-value">3.4/4.0</span>
                 </div>
               </div>
-              <div className="education-highlights">
-                <h5>Final Year Project:</h5>
-                <div className="project-highlight">
-                  <p><strong>Air Pollution Monitoring in Stone Crusher</strong></p>
-                  <p>An IoT-based environmental monitoring system designed to track and analyze air quality in stone crushing operations.</p>
-                  <div className="achievement-badge">
-                    <span>🏆 Finalist - Naan Mudhalvan's Niral Thiruvuzha</span>
-                  </div>
+            </div>
+          </div>
+
+          <div className="education-card">
+            <div className="education-icon">🏫</div>
+            <div className="education-details">
+              <h3>Higher Secondary School</h3>
+              <h4>Srivi Lions Matric. Hr. Sec. School, Srivilliputtur</h4>
+              <div className="education-info">
+                <span className="education-period">2021 – 2022</span>
+                <div className="cgpa-badge">
+                  <span className="cgpa-label">Score</span>
+                  <span className="cgpa-value">504/600</span>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div className="education-card">
+            <div className="education-icon">📝</div>
+            <div className="education-details">
+              <h3>SSLC</h3>
+              <h4>Srivi Lions Matric. Hr. Sec. School, Srivilliputtur</h4>
+              <div className="education-info">
+                <span className="education-period">2019 – 2020</span>
+                <div className="cgpa-badge">
+                  <span className="cgpa-label">Score</span>
+                  <span className="cgpa-value">329/500</span>
                 </div>
               </div>
             </div>

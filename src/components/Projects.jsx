@@ -1,25 +1,32 @@
 const Projects = () => {
   const projects = [
     {
-      title: "Windows MFA Project",
-      description: "A comprehensive multi-factor authentication system integrated directly into Windows logon, enhancing system security with modern authentication methods.",
-      tags: ["Windows", "Authentication", "Security", "C++"],
-      image: "/project-mfa.png",
+      title: "Log Management and Search System",
+      description: "Developed a scalable system to store and process large volumes of application logs using Apache Lucene for fast full-text search.",
+      tags: ["Python", "Lucene", "Scalable Systems"],
+      image: "/project-log.png",
       gradient: "project-1"
     },
     {
-      title: "Sterling Accuris",
-      description: "A sophisticated healthcare lab service platform that streamlines laboratory operations, patient management, and diagnostic services delivery.",
-      tags: ["Healthcare", "Web Application", "Database", "API"],
-      image: "/project-healthcare.png",
+      title: "Symposium Management Application",
+      description: "Full-stack web application for managing registrations and participant data with Google Sheets integration and a mobile-friendly interface.",
+      tags: ["Full Stack", "Google Sheets", "Responsive"],
+      image: "/project-symposium.png",
       gradient: "project-2"
     },
     {
-      title: "Air Pollution Monitoring",
-      description: "Final year project focused on monitoring air quality in stone crusher operations. Selected as finalist for Naan Mudhalvan's Niral Thiruvuzha.",
-      tags: ["IoT", "Environmental", "Sensors", "Data Analysis"],
-      image: "/project-airpollution.png",
+      title: "BMS Monitoring Web Application",
+      description: "Monitoring system for tracking battery parameters like voltage and temperature with real-time data processing using Spring Boot.",
+      tags: ["Spring Boot", "REST APIs", "Real-time"],
+      image: "/project-bms.png",
       gradient: "project-3"
+    },
+    {
+      title: "IoT Based Air Quality Monitoring",
+      description: "IoT system using ESP8266 to measure dust and gas levels in industrial environments for improved worker safety.",
+      tags: ["IoT", "ESP8266", "Embedded C"],
+      image: "/project-airquality.png",
+      gradient: "project-4"
     }
   ];
 

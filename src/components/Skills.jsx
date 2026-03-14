@@ -2,27 +2,27 @@ const Skills = () => {
   const skillsData = [
     {
       icon: "💻",
-      title: "Frontend Development",
-      description: "Building responsive, accessible, and performant user interfaces with modern frameworks and best practices",
-      skills: ["React", "JavaScript", "HTML5", "CSS3"]
+      title: "Programming",
+      description: "Proficient in multiple languages for both web and system-level development",
+      skills: ["Python", "JavaScript", "Java"]
     },
     {
-      icon: "⚙️",
-      title: "Backend Development",
-      description: "Developing scalable server-side applications and APIs with robust architecture and security",
-      skills: ["Node.js", "Python", "REST APIs", "Database Design"]
+      icon: "🔌",
+      title: "Embedded Systems & IoT",
+      description: "Experience in designing and implementing IoT solutions and hardware integration",
+      skills: ["Embedded C", "ESP8266/32", "Arduino"]
     },
     {
-      icon: "🔒",
-      title: "Security & Authentication",
-      description: "Implementing secure authentication systems and following security best practices",
-      skills: ["MFA", "Windows Auth", "OAuth", "Security Protocols"]
+      icon: "🚀",
+      title: "Web Development",
+      description: "Building robust server-side applications with modern frameworks",
+      skills: ["Spring Boot", "React", "Node.js"]
     },
     {
-      icon: "🏥",
-      title: "Healthcare Technology",
-      description: "Experience in developing healthcare applications and lab management systems",
-      skills: ["Lab Systems", "Patient Data", "HIPAA Compliance", "Healthcare APIs"]
+      icon: "🤝",
+      title: "Soft Skills",
+      description: "Effective collaborator with strong leadership and communication abilities",
+      skills: ["Teamwork", "Management", "Communication"]
     }
   ];
 

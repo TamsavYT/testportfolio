@@ -2,7 +2,6 @@ import { useState, useEffect } from 'react'
 import Navbar from './components/Navbar'
 import Hero from './components/Hero'
 import About from './components/About'
-import Experience from './components/Experience'
 import Projects from './components/Projects'
 import Education from './components/Education'
 import Skills from './components/Skills'
@@ -65,7 +64,6 @@ function App() {
       <Navbar isScrolled={isScrolled} />
       <Hero />
       <About />
-      <Experience />
       <Projects />
       <Education />
       <Skills />

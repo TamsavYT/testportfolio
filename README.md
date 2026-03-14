@@ -1,10 +1,10 @@
-# Balaji Sankaran - Portfolio Website
+# Gowri Sankaran R - Portfolio Website
 
 A modern, responsive portfolio website built with React and Vite showcasing my professional work and projects.
 
 ## About Me
 
-I'm Balaji Sankaran, a 22-year-old Software Developer working at Skillmine Technologies. I specialize in developing secure authentication systems and healthcare technology solutions.
+I am a dedicated programmer and lifelong learner with a deep passion for building intelligent systems. I am driven by curiosity and a commitment to high-quality work, always seeking to master new technologies to stay at the forefront of the industry.
 
 ## Features
 
@@ -12,7 +12,7 @@ I'm Balaji Sankaran, a 22-year-old Software Developer working at Skillmine Techn
 - 🌙 Dark theme with vibrant gradient accents
 - 📱 Mobile-friendly navigation
 - ⚡ Built with React + Vite for optimal performance
-- 🎯 Sections: Home, About, Experience, Projects, Education, Skills, Contact
+- 🎯 Sections: Home, About, Projects, Education, Skills, Contact
 
 ## Technologies Used
 
@@ -51,7 +51,6 @@ testportfolio/
 │   │   ├── Navbar.jsx          # Navigation component
 │   │   ├── Hero.jsx             # Hero/landing section
 │   │   ├── About.jsx            # About me section
-│   │   ├── Experience.jsx       # Work experience
 │   │   ├── Projects.jsx         # Featured projects
 │   │   ├── Education.jsx        # Educational background
 │   │   ├── Skills.jsx           # Skills and expertise
@@ -67,27 +66,39 @@ testportfolio/
 
 ## Featured Projects
 
-### Windows MFA Project
-Multi-factor authentication system integrated with Windows logon for enhanced security.
+### Log Management and Search System
+Developed a scalable system to store and process large volumes of application logs using Apache Lucene for fast full-text search.
 
-### Sterling Accuris
-Healthcare lab service platform streamlining laboratory operations and patient management.
+### Symposium Management Application
+Full-stack web application for managing registrations and participant data with Google Sheets integration and a mobile-friendly interface.
 
-### Air Pollution Monitoring
-IoT-based system for monitoring air quality in stone crusher operations (Finalist - Naan Mudhalvan's Niral Thiruvuzha).
+### BMS Monitoring Web Application
+Monitoring system for tracking battery parameters like voltage and temperature with real-time data processing using Spring Boot.
+
+### IoT Based Air Quality Monitoring
+IoT system using ESP8266 to measure dust and gas levels in industrial environments for improved worker safety.
 
 ## Education
 
-**Bachelor of Engineering in ECE**
-- Electronics and Communication Engineering
-- CGPA: 8.51
+**Bachelor of ECE**
+- Government College of Engg. Tirunelveli
+- GPA: 3.4/4.0
+
+**Higher Secondary School**
+- Srivi Lions Matric. Hr. Sec. School, Srivilliputtur
+- Score: 504/600
+
+**SSLC**
+- Srivi Lions Matric. Hr. Sec. School, Srivilliputtur
+- Score: 329/500
 
 ## Contact
 
 Feel free to reach out for collaborations or opportunities!
+Phone: +91 8489124847
 
 ---
 
-**© 2026 Balaji Sankaran. All rights reserved.**
+**© 2026 Gowri Sankaran R. All rights reserved.**
 
 Designed & Built with ❤️

@@ -8,25 +8,25 @@ const About = () => {
         </div>
         <div className="about-content-centered">
           <div className="about-text">
-            <h3>Passionate about building exceptional software solutions</h3>
+            <h3>Driven by curiosity and a commitment to high-quality work</h3>
             <p>
-              I'm a 22-year-old software developer currently working at Skillmine Technologies, where I contribute to innovative projects that make a real-world impact. With a strong foundation in electronics and communication engineering, I bring a unique perspective to software development.
+              I am a dedicated programmer and lifelong learner with a deep passion for building intelligent systems. I am driven by curiosity and a commitment to high-quality work, always seeking to master new technologies to stay at the forefront of the industry.
             </p>
             <p>
-              My expertise lies in developing secure authentication systems and healthcare technology solutions. I'm committed to writing clean, efficient code and creating applications that enhance user experience while maintaining the highest security standards.
+              With a background in Electronics and Communication Engineering, I combine technical expertise in embedded systems and IoT with a strong interest in modern web development and software architecture.
             </p>
             <div className="about-stats">
               <div className="stat-item">
-                <span className="stat-number">2+</span>
+                <span className="stat-number">4+</span>
                 <span className="stat-label">Major Projects</span>
               </div>
               <div className="stat-item">
-                <span className="stat-number">22</span>
-                <span className="stat-label">Years Old</span>
+                <span className="stat-number">3.4</span>
+                <span className="stat-label">GPA</span>
               </div>
               <div className="stat-item">
-                <span className="stat-number">8.51</span>
-                <span className="stat-label">CGPA</span>
+                <span className="stat-number">ECE</span>
+                <span className="stat-label">Specialization</span>
               </div>
             </div>
           </div>

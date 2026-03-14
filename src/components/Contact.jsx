@@ -38,31 +38,29 @@ const Contact = () => {
             </p>
             <div className="contact-methods">
               <div className="contact-method">
-                <span className="method-icon">📧</span>
+                <span className="method-icon">📞</span>
                 <div className="method-details">
-                  <span className="method-label">Email</span>
-                  <a href="mailto:balaji.sankaran@example.com">rbalajisankaran@gmail.com</a>
-                </div>
-              </div>
-              <div className="contact-method">
-                <span className="method-icon">💼</span>
-                <div className="method-details">
-                  <span className="method-label">Company</span>
-                  <span>Skillmine Technologies</span>
+                  <span className="method-label">Phone</span>
+                  <a href="tel:+918489124847">+91 8489124847</a>
                 </div>
               </div>
               <div className="contact-method">
                 <span className="method-icon">📍</span>
                 <div className="method-details">
-                  <span className="method-label">Role</span>
-                  <span>Software Developer</span>
+                  <span className="method-label">Location</span>
+                  <span>Srivilliputtur, Virudhunagar - 626125</span>
+                </div>
+              </div>
+              <div className="contact-method">
+                <span className="method-icon">🌐</span>
+                <div className="method-details">
+                  <span className="method-label">Portfolio</span>
+                  <span>mysite.portfolio</span>
                 </div>
               </div>
             </div>
             <div className="social-links">
-              <a href="https://github.com/rbalajisankaran-bot" className="social-link" aria-label="GitHub">GitHub</a>
-              <a href="https://www.linkedin.com/in/balaji-sankaran-r-b58860348/" className="social-link" aria-label="LinkedIn">LinkedIn</a>
-              {/* <a href="#" className="social-link" aria-label="Twitter">Twitter</a> */}
+              {/* Add social links if available */}
             </div>
           </div>
           <form className="contact-form" onSubmit={handleSubmit}>
