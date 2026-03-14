@@ -11,9 +11,9 @@ const Education = () => {
             <div className="education-icon">🎓</div>
             <div className="education-details">
               <h3>Bachelor of ECE</h3>
-              <h4>Government College of Engg. Tirunelveli</h4>
+              <h4>Government College of Engineering Tirunelveli</h4>
               <div className="education-info">
-                <span className="education-period">2022 – 2026</span>
+                <span className="education-period">2026</span>
                 <div className="cgpa-badge">
                   <span className="cgpa-label">GPA</span>
                   <span className="cgpa-value">3.4/4.0</span>
@@ -28,7 +28,7 @@ const Education = () => {
               <h3>Higher Secondary School</h3>
               <h4>Srivi Lions Matric. Hr. Sec. School, Srivilliputtur</h4>
               <div className="education-info">
-                <span className="education-period">2021 – 2022</span>
+                <span className="education-period">2022</span>
                 <div className="cgpa-badge">
                   <span className="cgpa-label">Score</span>
                   <span className="cgpa-value">504/600</span>
@@ -43,7 +43,7 @@ const Education = () => {
               <h3>SSLC</h3>
               <h4>Srivi Lions Matric. Hr. Sec. School, Srivilliputtur</h4>
               <div className="education-info">
-                <span className="education-period">2019 – 2020</span>
+                <span className="education-period">2020</span>
                 <div className="cgpa-badge">
                   <span className="cgpa-label">Score</span>
                   <span className="cgpa-value">329/500</span>
